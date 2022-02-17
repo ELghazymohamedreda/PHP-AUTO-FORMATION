@@ -2,8 +2,8 @@
 
 $person = [];
 
-$person["firstName"] = "Mohamed";
-$person["lastName"] = "Maskoul";
+$person["firstName"] = "Mohamed Reda";
+$person["lastName"] = "EL GHAZY";
 
 print_r($person);
 
